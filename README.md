@@ -1,4 +1,7 @@
 # Insurance AI Consultant Platform
+
+<img width="1672" height="941" alt="AI-Assisted Insurance Consultation Platform" src="https://github.com/user-attachments/assets/d4b15701-0178-4c1d-a27e-f939ecb6f009" />
+
  
 A full-stack meeting and sales-assist platform for insurance teams.
  
